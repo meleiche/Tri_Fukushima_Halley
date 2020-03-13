@@ -1,0 +1,21 @@
+********************************************************************
+              Trilateration Algorithm (Oct 2019)   
+
+ This is Validation for algorithm 
+		Given Point (P) as (fi, lamda, h) 
+			Compute Points: P0, P1, P2 
+			{err_0} = {P0} - {P} 
+			{err_1} = {P1} - {P} 
+			{err_2} = {P2} - {P} 
+********************************************************************
+     Input File Name:  D:\Research\Geodesy\Trilateration_Algorithm\Data_Test\fi_lam_h(4277_Adjust).txt
+
+All units in meters if not specified otherwise
+********************************************************************
+Ellipsoid parameters
+-----------------------------------------------
+semi major axis (a)    = 6378137.000000000000000000
+semi minor axis (b)    = 6356752.314245179300000000
+inverse flatting (f)   = 298.257223563000030000
+eccentricity square (ee)  = 0.006694379990141316
+epson = 521854.008423385270000000
