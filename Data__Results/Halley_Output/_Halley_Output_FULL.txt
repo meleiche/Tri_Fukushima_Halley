@@ -1,0 +1,16 @@
+********************************************************************
+              Trilateration Algorithm (Feb 2020)   
+
+********************************************************************
+
+     Input File Name:  D:\Research\Geodesy\Trilateration_Algorithm\Data_Test\fi_lam_h(4277_Adjust).txt
+All units in meters if not specified otherwise
+********************************************************************
+Number of input points = 4277
+Ellipsoid parameters
+-----------------------------------------------
+semi major axis (a)    = 6378137.000000000000000000
+semi minor axis (b)    = 6356752.314245179300000000
+inverse flatting (f)   = 298.257223563000030000
+eccentricity square (ee)  = 0.006694379990141316
+epson = 521854.008423385270000000
